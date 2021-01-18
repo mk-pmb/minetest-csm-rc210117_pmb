@@ -1,5 +1,5 @@
 { "name": "rc210117_pmb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A MineTest CSM that tries to help wire 3rd-party applications to a MineTest client.",
   "keywords": [],
 
